@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+E:\vihscodeX Hax\AC Cheat\vihscodeXESP\Dependencies\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+  vihscodeXESP.vcxproj -> E:\vihscodeX Hax\AC Cheat\vihscodeXESP\Debug\vihscodeXESP.exe
